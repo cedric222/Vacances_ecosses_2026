@@ -4,10 +4,10 @@
 
 ## Le déroulé du jour
 - ✈️ **Décollage CDG 10h35 → arrivée Édimbourg 11h20** (heure locale, -1h)
-- 🚗 Récupération de la voiture de location → **conduite à gauche**, prudence les premiers kilomètres (ronds-points !)
+- 🚉 **Pas encore de voiture** (retrait seulement le 28/07) → transfert vers Leith en **tram + bus/marche** ou **taxi**
 - 🏙️ Dépose des bagages, puis après-midi tranquille : on ne charge pas trop le 1er jour (fatigue du voyage)
 
-> 💡 Astuce : à Édimbourg, la voiture est plutôt une contrainte (stationnement cher, centre piéton). Envisager de la laisser au logement et de tout faire à pied / en bus / tram.
+> 💡 Le **tram d'Édimbourg** relie l'aéroport au centre (arrêt St Andrew Square / York Place), puis bus ou courte course de taxi jusqu'à Leith. Sans voiture ces 2 jours = zéro souci de stationnement, tant mieux : le centre est piéton et cher.
 
 ## 🏨 Logement
 **Waters View (appartement)** — Western Harbour View, Édimbourg, EH6 6PF

@@ -3,8 +3,12 @@
 **Étape :** Pitlochry (nuit unique) · Entrée dans les **Highlands du sud (Perthshire)**.
 
 ## Le déroulé du jour
-- 🚗 **Route Édimbourg → Pitlochry** (~110 km, ~1h45 par l'A9)
-- 🏨 **Arrivée au logement entre 13h et 18h** → on a la matinée + une partie de l'après-midi pour des arrêts en chemin
+- 🌅 **Matinée à Édimbourg sans voiture** (bagages avec soi, ou consigne) — dernier tour du centre
+- 🔑 **Retrait de la voiture à 12:00 — Enterprise, Edinburgh Waverley Station** (Level -2, New Street Car Park, EH8 8BH · ☎️ 0131 341 4441). Comptoir à gauche à l'entrée principale de la gare.
+- 🚗 **Route Waverley → Pitlochry** (~110 km, ~1h45 par l'A9) → arrivée vers ~14h
+- 🏨 **Arrivée au logement entre 13h et 18h** ✅ cohérent avec le retrait à midi
+
+> 💡 Prise de voiture à midi = peu de temps pour des arrêts avant Pitlochry. Garder les grosses balades (The Hermitage, Killiecrankie) pour l'après-midi une fois installés, ou pour le trajet du lendemain.
 
 ## 🏨 Logement
 **Buttonboss Lodge B&B** — 2 chambres, **petit-déjeuner inclus**

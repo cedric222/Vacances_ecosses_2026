@@ -30,14 +30,28 @@
 | Oban | 02 & 03/08 | George Street Apartment | 120 George Street, PA34 5NT | [Booking](https://www.booking.com/hotel/gb/george-street-apartment-oban1.fr.html) |
 | Loch Lomond | 04 & 05/08 | Walled Garden Lodges | The Walled Garden Lodges, Balloch, G83 8RB | [Booking](https://www.booking.com/hotel/gb/walled-garden-lodges-loch-lomond.fr.html) |
 
+## 🚘 Location de voiture (Enterprise)
+
+> ⚠️ La voiture n'est prise que le **28/07 à midi** : les J1 et J2 à Édimbourg se font **sans voiture** (tram/bus/à pied).
+
+| | 🔑 Retrait | 🏁 Retour |
+|---|-----------|-----------|
+| **Date/heure** | **Mar 28 juil. 2026 — 12:00** | **Jeu 6 août 2026 — 16:00** |
+| **Lieu** | Edinburgh Waverley Station | Aéroport d'Édimbourg (EDI) |
+| **Adresse** | Level -2, New Street Car Park, EH8 8BH | 175 Jubilee Road, EH12 9FS |
+| **Horaires agence** | Lun–Dim 07:00–18:00 | Lun–Dim 07:00–23:59 |
+| **Téléphone** | 0131 341 4441 | 0131 341 4000 |
+
+*Arrivée au retrait :* comptoir Enterprise sur la gauche à l'entrée principale de la gare.
+
 ## 🚗 Les trajets (estimations à vérifier)
 
 > Distances/durées approximatives — à confirmer sur Google Maps avant le départ. Conduite **à gauche** !
 
 | Trajet | Distance ~ | Durée ~ |
 |--------|-----------|---------|
-| Aéroport → Édimbourg centre | 15 km | 25 min |
-| Édimbourg → Pitlochry | 110 km | 1h45 |
+| Aéroport → Leith (J1, **sans voiture** : tram + marche) | ~12 km | ~40 min |
+| Gare Waverley → Pitlochry (J3, après retrait voiture 12h) | 110 km | 1h45 |
 | Pitlochry → Inverness | 145 km | 1h45 |
 | Inverness → Skye (Broadford) | 180 km | 2h30 · [itinéraire](https://maps.app.goo.gl/pdXS5t8x8hA9TeFa6) |
 | Skye (Broadford) → Oban | 230 km | 3h30 |
@@ -46,8 +60,9 @@
 
 ## ✅ Choses à préparer / à réserver
 
-- [ ] Location de voiture (prise au plus près de l'arrivée le 26/07)
-- [ ] Permis + carte bancaire pour la caution voiture
+- [x] Location de voiture réservée (Enterprise, retrait 28/07 12h Waverley — voir section ci-dessus)
+- [ ] Permis de conduire + carte bancaire (au nom du conducteur) pour la caution
+- [ ] Transfert aéroport → Leith le 26/07 (tram jusqu'au centre puis correspondance, ou taxi)
 - [ ] Vérifier les heures d'arrivée/check-in de chaque logement (voir tableau)
 - [ ] Inverness : réserver le **tour guidé de VTT de montagne** ? (idée notée)
 - [ ] Adaptateurs de prise UK
