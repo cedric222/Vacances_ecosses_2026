@@ -1,0 +1,13 @@
+jour;date;etape;nuit;logement;adresse;horaires;reservation;notes
+dimanche;2026-07-26;Édimbourg;1/2;Waters View (appartement);Western Harbour View, Édimbourg, EH6 6PF;Décollage CDG 10h35 - arrivée Édimbourg 11h20;https://www.booking.com/hotel/gb/waters-view-edinburgh.fr.html;
+lundi;2026-07-27;Édimbourg;2/2;Waters View (appartement);Western Harbour View, Édimbourg, EH6 6PF;;https://www.booking.com/hotel/gb/waters-view-edinburgh.fr.html;
+mardi;2026-07-28;Pitlochry;1/1;Buttonboss Lodge B&B (2 ch, petit-déj inclus);25-27 Atholl Road, Pitlochry, PH16 5BX;Arrivée 13h-18h - départ 7h-11h;https://www.booking.com/hotel/gb/buttonboss-lodge.fr.html;
+mercredi;2026-07-29;Inverness;1/2;Fishermans (maison 2 chambres);The Sheiling, Old Craigton Road, Inverness, IV1 3YD;Arrivée 16h;https://www.booking.com/hotel/gb/fishermans.fr.html;Idée : tour guidé VTT de montagne
+jeudi;2026-07-30;Inverness;2/2;Fishermans (maison 2 chambres);The Sheiling, Old Craigton Road, Inverness, IV1 3YD;Départ 10h le 31;https://www.booking.com/hotel/gb/fishermans.fr.html;
+vendredi;2026-07-31;Île de Skye;1/2;Harrapool Hideout (maison 2 chambres);1 A87, Broadford, IV49 9BY;Arrivée 16h;https://www.booking.com/hotel/gb/harrapool-hideout-skye.fr.html;
+samedi;2026-08-01;Île de Skye;2/2;Harrapool Hideout (maison 2 chambres);1 A87, Broadford, IV49 9BY;Départ 10h le 2;https://www.booking.com/hotel/gb/harrapool-hideout-skye.fr.html;
+dimanche;2026-08-02;Oban;1/2;George Street Apartment;120 George Street, Oban, PA34 5NT;Arrivée 16h;https://www.booking.com/hotel/gb/george-street-apartment-oban1.fr.html;
+lundi;2026-08-03;Oban;2/2;George Street Apartment;120 George Street, Oban, PA34 5NT;Départ 10h le 4;https://www.booking.com/hotel/gb/george-street-apartment-oban1.fr.html;
+mardi;2026-08-04;Loch Lomond;1/2;Walled Garden Lodges;The Walled Garden Lodges, Balloch, G83 8RB;Arrivée 16h-23h;https://www.booking.com/hotel/gb/walled-garden-lodges-loch-lomond.fr.html;
+mercredi;2026-08-05;Loch Lomond;2/2;Walled Garden Lodges;The Walled Garden Lodges, Balloch, G83 8RB;Départ 10h le 6;https://www.booking.com/hotel/gb/walled-garden-lodges-loch-lomond.fr.html;
+jeudi;2026-08-06;Retour France;-;-;-;Décollage 18h45;;
