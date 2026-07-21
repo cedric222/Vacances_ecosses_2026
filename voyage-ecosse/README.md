@@ -2,12 +2,14 @@
 
 12 jours / 11 nuits, en boucle depuis Édimbourg.
 
+👨‍👩‍👧‍👦 **Le groupe :** 4 personnes — 2 parents (~50 ans) + 2 grands (17 et 21 ans). Groupe **actif** : on privilégie randos, activités outdoor et sorties bateau plutôt que les attractions « petits enfants ».
+
 ## 🗺️ Itinéraire en un coup d'œil
 
 | Jour | Date | Étape | Logement | Horaires clés |
 |------|------|-------|----------|---------------|
 | [J1 — dimanche](jours/jour-01-dimanche-26-juillet.md) | 26/07 | Édimbourg | Waters View (appart) | ✈️ Décollage CDG 10h35 → Édimbourg 11h20 |
-| [J2 — lundi](jours/jour-02-lundi-27-juillet.md) | 27/07 | Édimbourg | Waters View (appart) | Journée à Édimbourg |
+| [J2 — lundi](jours/jour-02-lundi-27-juillet.md) | 27/07 | Édimbourg | Waters View (appart) | 🏰 Château 14:00 (réservé) |
 | [J3 — mardi](jours/jour-03-mardi-28-juillet.md) | 28/07 | Pitlochry | Buttonboss Lodge B&B | Arrivée 13h–18h |
 | [J4 — mercredi](jours/jour-04-mercredi-29-juillet.md) | 29/07 | Inverness | Fishermans | Arrivée 16h |
 | [J5 — jeudi](jours/jour-05-jeudi-30-juillet.md) | 30/07 | Inverness | Fishermans | Départ 10h le 31 |
@@ -61,12 +63,17 @@
 ## ✅ Choses à préparer / à réserver
 
 - [x] Location de voiture réservée (Enterprise, retrait 28/07 12h Waverley — voir section ci-dessus)
+- [x] **Château d'Édimbourg réservé — entrée 14:00 le 27/07 (J2)**
 - [ ] Permis de conduire + carte bancaire (au nom du conducteur) pour la caution
+- [ ] **Conducteur additionnel de 21 ans ?** Vérifier les conditions Enterprise : âge mini + **surcharge "jeune conducteur" (< 25 ans)** et catégories de véhicule autorisées. Utile pour **se relayer** sur les longues étapes (Skye → Oban 3h30, Skye ↔ Inverness). À ajouter au contrat au moment du retrait (permis du 21 ans requis).
+- [ ] **Capacité couchage : 4 personnes (adultes/grands ados).** Vérifier sur chaque résa que les logements « 2 chambres » couchent bien **4** et voir la config lits (2 doubles ? 1 double + 2 simples ?). À contrôler surtout : Buttonboss B&B (Pitlochry) et les appartements (Édimbourg, Oban).
 - [ ] Transfert aéroport → Leith le 26/07 (tram jusqu'au centre puis correspondance, ou taxi)
 - [ ] Vérifier les heures d'arrivée/check-in de chaque logement (voir tableau)
-- [ ] Inverness : réserver le **tour guidé de VTT de montagne** ? (idée notée)
+- [ ] Inverness (J5) : réserver la **sortie e-MTB demi-journée** (4 e-bikes, tous à l'aise sur sentier) — In Your Element ☎️ +44 333 600 6008 / fun@iye.scot, ou location autonome Loch Ness Hub (Drumnadrochit). Voir [J5](jours/jour-05-jeudi-30-juillet.md).
+- [ ] **Distilleries & whisky :** dégustation réservée à **18 ans et +** (le 17 ans peut visiter mais pas déguster). Certaines distilleries limitent l'âge d'accès aux visites → vérifier avant de réserver.
+- [ ] **Réserver tôt les activités "phares" de l'été** : croisières/bateaux (Loch Ness, Staffa/Mull/Iona depuis Oban, Elgol sur Skye), distilleries, éventuel ferry Armadale → Mallaig.
 - [ ] Adaptateurs de prise UK
-- [ ] Vêtements de pluie / couches (météo écossaise 🌧️)
+- [ ] **Répulsif anti-midges** (moucherons, surtout Skye/Highlands le soir) + couches + imperméable (météo écossaise 🌧️)
 
 ---
 *Fichiers : [`itineraire.csv`](itineraire.csv) pour la version tableur, un fichier par jour dans [`jours/`](jours/).*

@@ -16,7 +16,7 @@ The Sheiling, Old Craigton Road, Inverness, IV1 3YD · [Booking](https://www.boo
 - **Aviemore & les Cairngorms** (léger détour) : cœur du parc national.
   - **Loch an Eilein** — boucle plate ~5 km autour d'un loch avec ruine de château sur un îlot. Sublime et facile (Rothiemurchus).
   - **Cairngorm Mountain** — montée en télécabine vers le plateau, vue sur les sommets.
-  - **Rothiemurchus** — forêt calédonienne, activités famille (rennes en liberté au Cairngorm Reindeer Centre !).
+  - **Rothiemurchus** — forêt calédonienne + base d'**activités outdoor** parfaites pour ce groupe : VTT, canoë/kayak sur le loch, parcours aventure, tir à l'arc, quad. Le **Cairngorm Reindeer Centre** propose des balades guidées au milieu du troupeau de rennes en liberté (sympa à tout âge).
 - **Ruthven Barracks** (Kingussie) — ruine de caserne jacobite, arrêt photo gratuit.
 - **Rogie Falls** (léger crochet à l'ouest) — cascades avec passerelle, on peut y voir sauter les saumons.
 

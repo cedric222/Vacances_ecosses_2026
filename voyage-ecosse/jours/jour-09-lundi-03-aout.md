@@ -24,8 +24,10 @@
 - **Seil Island & Easdale** (~30 min au sud) — le "pont sur l'Atlantique" (Clachan Bridge), village d'ardoisiers d'Easdale, championnat du monde de ricochet !
 - **Ganavan Sands** — plage à 5 min d'Oban, balade côtière.
 
-## 👨‍👩‍👧 En famille
-- **Oban Sea Life Sanctuary** (à ~15 min) — loutres, phoques, faune marine.
+## 🐧 Faune & sensations (le top pour ce groupe)
+- **Excursion Staffa + macareux** — la sortie bateau vedette d'Oban en été : grotte de Fingal + colonies de macareux (voir plus haut). À réserver, sûrement le meilleur souvenir "nature" du séjour.
+- **Sea kayak en mer** (sorties guidées autour d'Oban/Kerrera) — pour les amateurs de rame.
+- **Oban Sea Life Sanctuary** (à ~15 min) — loutres, phoques (plutôt option repli météo).
 
 ## 🥃 / 🍽️
 - Distillerie d'Oban (si pas faite au J8) · encore des fruits de mer sur le port !
