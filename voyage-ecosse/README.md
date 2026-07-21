@@ -76,4 +76,4 @@
 - [ ] **Répulsif anti-midges** (moucherons, surtout Skye/Highlands le soir) + couches + imperméable (météo écossaise 🌧️)
 
 ---
-*Fichiers : [`a-reserver.md`](a-reserver.md) la liste des réservations, [`itineraire.csv`](itineraire.csv) la version tableur, un fichier par jour dans [`jours/`](jours/).*
+*Fichiers : [`a-reserver.md`](a-reserver.md) la liste des réservations, [`itineraire.csv`](itineraire.csv) la version tableur, un fichier par jour dans le menu « Jour par jour ».*

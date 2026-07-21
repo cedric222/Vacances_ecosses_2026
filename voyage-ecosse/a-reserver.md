@@ -8,7 +8,7 @@ Légende : ✅ fait · 🔴 réserver vite · 🟠 réserver quelques jours avan
 ---
 
 ## ✅ Déjà réservé
-- **Voiture de location (Enterprise)** — retrait mar. 28/07 12:00 à Edinburgh Waverley, retour jeu. 06/08 16:00 à l'aéroport d'Édimbourg. *(détails dans le [README](README.md#-location-de-voiture-enterprise))*
+- **Voiture de location (Enterprise)** — retrait mar. 28/07 12:00 à Edinburgh Waverley, retour jeu. 06/08 16:00 à l'aéroport d'Édimbourg. *(détails dans le [README](README.md#location-de-voiture-enterprise))*
 - **Château d'Édimbourg** — J2, **entrée réservée à 14:00 le 27/07**. Se présenter un peu en avance, accès sur le créneau réservé.
 
 ---

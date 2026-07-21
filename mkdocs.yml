@@ -1,0 +1,56 @@
+site_name: 🏴 Road trip en Écosse — été 2026
+site_description: Carnet de voyage — 12 jours en Écosse, du 26 juillet au 6 août 2026
+docs_dir: voyage-ecosse
+
+theme:
+  name: material
+  language: fr
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: Passer en mode sombre
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: deep orange
+      toggle:
+        icon: material/weather-night
+        name: Passer en mode clair
+  features:
+    - navigation.instant
+    - navigation.top
+    - navigation.tracking
+    - content.code.copy
+    - toc.integrate
+
+markdown_extensions:
+  - tables
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Accueil: README.md
+  - À réserver: a-reserver.md
+  - Jour par jour:
+      - J1 · Dim 26/07 — Arrivée Édimbourg: jours/jour-01-dimanche-26-juillet.md
+      - J2 · Lun 27/07 — Édimbourg: jours/jour-02-lundi-27-juillet.md
+      - J3 · Mar 28/07 — Pitlochry: jours/jour-03-mardi-28-juillet.md
+      - J4 · Mer 29/07 — Inverness: jours/jour-04-mercredi-29-juillet.md
+      - J5 · Jeu 30/07 — Inverness: jours/jour-05-jeudi-30-juillet.md
+      - J6 · Ven 31/07 — Île de Skye: jours/jour-06-vendredi-31-juillet.md
+      - J7 · Sam 01/08 — Île de Skye: jours/jour-07-samedi-01-aout.md
+      - J8 · Dim 02/08 — Oban: jours/jour-08-dimanche-02-aout.md
+      - J9 · Lun 03/08 — Oban: jours/jour-09-lundi-03-aout.md
+      - J10 · Mar 04/08 — Loch Lomond: jours/jour-10-mardi-04-aout.md
+      - J11 · Mer 05/08 — Loch Lomond: jours/jour-11-mercredi-05-aout.md
+      - J12 · Jeu 06/08 — Retour: jours/jour-12-jeudi-06-aout.md
