@@ -8,29 +8,30 @@
 
 ---
 
-## ⛴️ Excursions aux îles (la spécialité d'Oban)
-> Oban est le grand hub des ferries CalMac. Superbe journée à la carte — **réserver la traversée** en été.
-- **Île de Mull** (ferry ~45 min) — la plus accessible : village coloré de **Tobermory**, château de Duart, paysages.
-- **Iona** (via Mull) — petite île sacrée, abbaye historique, plages de sable blanc, eaux turquoise.
-- **Staffa** (excursion bateau) — **grotte de Fingal** (colonnes basaltiques) et colonies de **macareux** 🐧 en été. Sortie inoubliable (souvent combinée Mull + Staffa + Iona).
-- **Kerrera** (ferry ~5 min) — petite île paisible face à Oban, randonnée jusqu'au château de Gylen (boucle ~2–3h).
-- **Lismore** — île verdoyante, à vélo ou à pied, tranquillité.
+> ⚠️ **Point ferries (été 2026) :** les ferries **CalMac** (voiture) vers les îles sont **complets**. On garde deux plans B ci-dessous — plan B1 (bateau privé, si dispo) et plan B2 (voiture, valeur sûre).
 
-## 🏰 Châteaux autour d'Oban (sans ferry)
+## ⛴️ Plan B1 — Excursions bateau SANS CalMac (à tenter en priorité)
+> Les tours privés sont **indépendants du réseau CalMac** — souvent encore de la place même quand les ferries voiture sont pleins. **Un coup de fil vaut le coup**, c'est le meilleur souvenir "nature" du séjour.
+- **Staffa + Iona + macareux** 🐧 — via opérateurs privés (**Staffa Tours**, **West Coast Tours**, **Coastal Connection**) : grotte de Fingal (colonnes basaltiques), colonies de macareux en été, abbaye d'Iona, plages de sable blanc. Sortie inoubliable.
+- **Kerrera** (petit ferry **passagers** depuis Gallanach, pas CalMac → presque toujours dispo) — île paisible face à Oban, boucle rando ~2–3h jusqu'au **château de Gylen**.
+- **Sortie kayak de mer** ou **RIB wildlife** (**Basking Shark Scotland** part d'Oban) — pour les amateurs de sensations et de faune.
+
+## 🚗 Plan B2 — Journée en voiture (valeur sûre, aucun bateau requis)
+1. **Loch Awe + château de Kilchurn** (~30 min à l'est) — ruine spectaculaire posée sur le loch, l'une des plus photographiées d'Écosse. À combiner avec **Cruachan "Hollow Mountain"** (centrale hydro dans la montagne, visite guidée insolite — parfait si pluie). ⭐ Le meilleur repli.
+2. **Glen Coe + Glen Etive** (~1h au nord) — la vallée mythique des Highlands + la route de Glen Etive (décor de *Skyfall*). Une journée entière de balades et d'arrêts photo.
+3. **Inveraray** (~1h au sud) — jolie ville au bord du Loch Fyne : **château d'Inveraray**, prison-musée. Bien situé (direction Loch Lomond du J10).
+4. **Seil / Easdale / Ellenabeich** (~30 min au sud) — le "pont sur l'Atlantique" (Clachan Bridge), villages d'ardoisiers, championnat du monde de ricochet !
+
+## 🏰 Autour d'Oban (sans voiture ou presque)
 - **Dunollie Castle** — ruine + musée, à 10 min à pied du centre.
 - **Dunstaffnage Castle** — forteresse médiévale au bord de la mer, à ~10 min en voiture.
-
-## 🥾 Nature & balades (rester sur le continent)
-- **Seil Island & Easdale** (~30 min au sud) — le "pont sur l'Atlantique" (Clachan Bridge), village d'ardoisiers d'Easdale, championnat du monde de ricochet !
 - **Ganavan Sands** — plage à 5 min d'Oban, balade côtière.
 
-## 🐧 Faune & sensations (le top pour ce groupe)
-- **Excursion Staffa + macareux** — la sortie bateau vedette d'Oban en été : grotte de Fingal + colonies de macareux (voir plus haut). À réserver, sûrement le meilleur souvenir "nature" du séjour.
-- **Sea kayak en mer** (sorties guidées autour d'Oban/Kerrera) — pour les amateurs de rame.
-- **Oban Sea Life Sanctuary** (à ~15 min) — loutres, phoques (plutôt option repli météo).
+## 🌧️ Repli météo
+- **Cruachan Hollow Mountain** (voir plan B2), **Oban Sea Life Sanctuary** (~15 min : loutres, phoques), distillerie d'Oban.
 
 ## 🥃 / 🍽️
 - Distillerie d'Oban (si pas faite au J8) · encore des fruits de mer sur le port !
 
 ## Notes
--
+- **Priorité :** tenter le plan B1 (bateau privé) → sinon basculer sur **Loch Awe/Kilchurn + Cruachan** (plan B2).
