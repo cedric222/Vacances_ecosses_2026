@@ -21,16 +21,22 @@ Boucle en voiture autour du loch (~2h de route sans arrêt), avec :
 - **Great Glen Way** — tronçons faciles le long du canal.
 - **Reelig Glen** — bois avec l'un des plus hauts arbres du Royaume-Uni, boucle courte et ombragée.
 
-## 🚵 VTT électrique (l'activité "phare" — à réserver)
-> **Groupe :** 4 adultes/grands ados, tous à l'aise sur chemin/sentier — 1 très bon rideur + 3 bons. → **e-MTB pour les 4** : l'assistance nivelle les écarts (les 3 suivent sur du vrai singletrack, le rideur costaud peut pousser). Format **demi-journée**.
+## 🚵 VTT électrique — ✅ RÉSERVÉ : Fair Haired Lad's Pass (42 Cycling)
+> **« Passage pour les beaux gosses ! » — Excursion e-bike demi-journée** · **Jeudi 30 juillet 2026 à 10h00** · Circuit / Groupe 1.
 
-- **🥇 In Your Element — sortie e-bike guidée depuis Inverness** (groupe privé de 4, parcours adapté au niveau, le guide gère la nav).
-  ☎️ +44 (0)333 600 6008 · ✉️ fun@iye.scot · [iye.scot](https://iye.scot/activity/inverness-e-bike-day-tour/)
-- **🥈 Loch Ness Hub (Drumnadrochit) — location e-MTB en autonomie** : Cube Reaction / moteur Bosch Performance CX, off-road, casques + cartes + démo fournis. Moins cher, plus libre, mais on mène.
-  [lochnesstravel.com/e-bike-hire](https://www.lochnesstravel.com/e-bike-hire/)
-- **🥉 42 Cycling** — demi-journée guidée Loch Ness (Dores/Foyers/Loch Ness 360), e-bikes possibles. [42cycling.com/book-a-tour](https://42cycling.com/book-a-tour/) (code `2023LochNess360` = -10%)
+**📋 Réservation n° `401786948777`** · Contact : **kev@42cycling.com** · ☎️ **+44 (0)7824 097773**
 
-→ **À réserver en amont** (places limitées en plein été). Peut aussi se caler le J4 en arrivant, mais le J5 (journée pleine) est plus confortable.
+**Vélos réservés (4 e-bikes) :**
+| Personne | Taille | Vélo | Prix |
+|----------|--------|------|------|
+| Cédric (175) | Taille L (1,75 – 1,90 m) | e-bike L | 165 £ |
+| Jérémy (170) | Taille moyenne (1,65 – 1,75 m) | e-bike M | 165 £ |
+| Coralie (172) | Taille moyenne (1,65 – 1,75 m) | e-bike M | 165 £ |
+| Géraldine (158) | Taille S (1,57 – 1,65 m) | e-bike S | 165 £ |
+
+**Total : 4 × 165 £ = 660 £**
+
+**Le parcours :** départ Inverfarigaig ou Dores → montée du col, vue imprenable sur le Loch Ness et le château d'Urquhart sur l'autre rive → descente technique (faisable à pied ou contournée par la route secondaire si trop dur) → sentiers jusqu'à Dores. **Comptez 4 à 6 h de vélo.** Déjeuner/dîner possible au **Dores Inn** (plage de Dores).
 
 ## 🏰 Histoire (si pas déjà fait au J4)
 - **Culloden**, **Clava Cairns**, **Fort George**, **Cawdor Castle** (château habité, magnifiques jardins, lié à Macbeth).
